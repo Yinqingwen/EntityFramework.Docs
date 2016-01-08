@@ -1,4 +1,5 @@
 Entity Framework Documentation
+Entity Framework 文档
 ==============================
 
 .. include:: /_shared/stub-overview.txt
