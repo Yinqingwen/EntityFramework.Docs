@@ -1,2 +1,3 @@
 .. caution::
     This documentation is for EF7 onwards. For EF6.x and earlier release see http://msdn.com/data/ef.
+    本文档是基于EF7版本.对于EF6.x及更早的版本请参见http://msdn.com/data/ef.
