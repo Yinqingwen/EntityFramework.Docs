@@ -1,7 +1,8 @@
-Contributing
+贡献者
 ============
 
 Information on contributing to this repo is in the [Contributing Guide](https://github.com/aspnet/Home/blob/dev/CONTRIBUTING.md) in the Home repo.
+在这个项目的主页来查看贡献[手册](https://github.com/aspnet/Home/blob/dev/CONTRIBUTING.md)
 
 The documentation is built using [Sphinx](http://sphinx-doc.org) and [reStructuredText](http://sphinx-doc.org/rest.html), and then hosted by [ReadTheDocs](http://aspnet.readthedocs.org).
 
